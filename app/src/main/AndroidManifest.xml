@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:name=".models.utils.ShowToDoApplication">
-        <activity android:name=".views.ShowToDoListActivity">
+        <activity android:name=".views.activities.ShowToDoListActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

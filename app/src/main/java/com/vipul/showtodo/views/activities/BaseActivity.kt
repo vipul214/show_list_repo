@@ -1,12 +1,10 @@
-package com.vipul.showtodo.views
+package com.vipul.showtodo.views.activities
 
 import android.app.Activity
 import android.content.Context
 import android.os.Bundle
-import android.widget.ProgressBar
 import androidx.appcompat.app.AppCompatActivity
 import android.view.View
-import androidx.appcompat.widget.Toolbar
 import com.vipul.showtodo.R
 
 

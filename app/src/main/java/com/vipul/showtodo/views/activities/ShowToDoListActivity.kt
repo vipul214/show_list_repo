@@ -1,4 +1,4 @@
-package com.vipul.showtodo.views
+package com.vipul.showtodo.views.activities
 
 import android.os.Bundle
 import android.view.View
