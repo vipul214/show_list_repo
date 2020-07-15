@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_todo_list_item">8dp</dimen>
+    <dimen name="todo_list_item_vertical_spacing">5dp</dimen>
+
+
+    <dimen name="list_item_title_size">18sp</dimen>
+    <dimen name="list_item_description_size">16sp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">showtodo</string>
+
+    <string name="title_activity_todo_list">Todo List</string>
+
+    <string name="reload_title">Something went wrong</string>
+    <string name="reload_message">Give it another try</string>
+    <string name="reload_text">Reload</string>
+
+    <string name="msg_loader">Please wait ...</string>
+
+
+    <string name="base_url">https://jsonplaceholder.typicode.com/</string>
+</resources>
